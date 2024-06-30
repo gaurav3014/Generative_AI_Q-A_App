@@ -10,8 +10,8 @@ To simulate OpenAI's functionality since your API key creation is over, follow t
 
 1. Clone the [FakeServer GitHub repository](https://github.com/nicknochnack/FakeServer).
 
-```bash
-git clone https://github.com/nicknochnack/FakeServer
+   ```bash
+   git clone https://github.com/nicknochnack/FakeServer
 
 From here you can run:
    ```bash
