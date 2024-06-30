@@ -7,7 +7,7 @@ Clone the FakeServer GitHub repository.
 1. git clone https://github.com/nicknochnack/FakeServer
 
 From here you can run:
-        ```bash
+        ``` bash
         Streamlight run qeustion_ansewr.py       
         ```
 
